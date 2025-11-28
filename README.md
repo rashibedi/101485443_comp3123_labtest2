@@ -44,3 +44,9 @@ This project is simple react based weather application that allows users to sear
 ### add API key
 
 ### npm start
+
+---
+## vercel link
+
+https://101485443-comp3123-labtest2-ddtxhx1to-rashibedi02s-projects.vercel.app
+
